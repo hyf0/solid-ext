@@ -4,7 +4,7 @@ import { get, noop } from '../shared'
 import { usePausable } from './usePausable'
 
 /**
- * @category Isomorphic
+ * @category Isomorphic Hook
  */
 export function useInterval(
   fn: AnyFn,

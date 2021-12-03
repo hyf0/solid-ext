@@ -7,7 +7,7 @@ import { usePausable } from './usePausable'
  * @description
  * requestIdleCallback
  * 
- * @category Isomorphic
+ * @category Isomorphic Hook
  */
 export function useRic(
   fn: IdleRequestCallback,

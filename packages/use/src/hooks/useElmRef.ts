@@ -25,7 +25,7 @@ import { onCleanup } from 'solid-js'
  * @description
  * A syntax sugar to help using refs in solid and work well with other hooks.
  *
- * @category Isomorphic
+ * @category Isomorphic Hook
  */
 export function useElmRef<T extends HTMLElement>(): ElementRef<T> {
   const ref: ElementRef<T> = (elm: T) => {

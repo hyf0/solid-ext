@@ -2,7 +2,7 @@ import { useRaf, useState } from '@src/hooks'
 import { ReactiveGetter } from '@src/types'
 
 /**
- * @category Isomorphic
+ * @category Isomorphic Hook
  */
 export function useFPS(): ReactiveGetter<number> {
   const [fps, setFPS] = useState(0)

@@ -3,8 +3,10 @@ import { useMediaQuery, useMemo } from '@src/hooks'
 export type ColorSchemeType = 'dark' | 'light' | 'no-preference'
 
 /**
- * @category Isomorphic
+ * @description
  * Reactive prefers-color-scheme media query.
+ * 
+ * @category Isomorphic Hook
  */
 export function usePreferredColorScheme() {
   const isLight = useMediaQuery('(prefers-color-scheme: light)')

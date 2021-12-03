@@ -1,7 +1,7 @@
 import { useEffect, useState } from '@src/hooks'
 
 /**
- * @category Isomorphic
+ * @category Isomorphic Hook
  */
 export function useMediaQuery(query: string) {
   const [matches, setMatches] = useState(false)

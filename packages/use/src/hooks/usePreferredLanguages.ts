@@ -4,7 +4,7 @@ import { useEventListener, useState } from '.'
 /**
  * @description
  * Reactive Navigator Languages.
- * @category Isomorphic
+ * @category Isomorphic Hook
  */
 export function usePreferredLanguages(): ReactiveGetter<readonly string[]> {
   const navigator = window.navigator

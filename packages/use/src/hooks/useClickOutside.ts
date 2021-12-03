@@ -27,7 +27,7 @@ import { useEventListener } from '.'
  * }
  * ```
  *
- * @category Isomorphic
+ * @category Isomorphic Hook
  */
 export function useClickOutside(
   target: ElementOrElementRef<HTMLElement>,

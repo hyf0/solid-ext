@@ -61,7 +61,7 @@ const functionsMap: FunctionMap[] = [
 
 /**
  * Reactive Fullscreen API.
- * @category Browser
+ * @category Browser Hook
  */
 export function useFullscreen(
   target: ElementOrElementRef<HTMLElement> = document.querySelector('html')!,

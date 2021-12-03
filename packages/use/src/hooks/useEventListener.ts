@@ -84,7 +84,7 @@ export function useEventListener<
 ): Fn
 
 /**
- * @category Isomorphic
+ * @category Isomorphic Hook
  */
 export function useEventListener(...args: any[]) {
   let maybeTarget: MaybeReactiveGetter<EventTarget>

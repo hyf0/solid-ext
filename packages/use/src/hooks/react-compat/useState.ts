@@ -2,7 +2,7 @@ import { createSignal } from 'solid-js'
 
 /**
  * @example
- * ```
+ * ```tsx
  * const [getB, setB] = useState(1)
  * 
  * console.log(getB()) // => 2
@@ -11,7 +11,7 @@ import { createSignal } from 'solid-js'
  * @description
  * A React style wrapper of `createSignal`. It returns a pair of functions as an array: a getter and a setter.
  * 
- * @category Isomorphic
+ * @category Isomorphic Hook
  * @category React Style
  */
 export function useState<T>(initialValue: T) {

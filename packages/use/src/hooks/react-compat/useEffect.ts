@@ -3,7 +3,7 @@ import { createEffect, onCleanup } from 'solid-js'
 
 /**
  * @example
- * ```
+ * ```tsx
  * export function useTitle(title: MaybeGetter<string>) {
  *   useEffect(() => {
  *     const prevTitle = document.title
@@ -20,7 +20,7 @@ import { createEffect, onCleanup } from 'solid-js'
  * - `useEffect` will ensure `cleanUp` is executed before next `effect` being executed.
  * - `cleanUp` will be executed when the lifecycle `onCleanUp` is executed
  * 
- * @category Isomorphic
+ * @category Isomorphic Hook
  * @category React Style
  */
 export function useEffect(effect: Effect) {

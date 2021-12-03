@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[hooks/useEventListener.ts:15](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useEventListener.ts#L15)
+[hooks/useEventListener.ts:15](https://github.com/iheyunfei/solid-ext/blob/594271c/packages/use/src/hooks/useEventListener.ts#L15)
 
 ___
 
@@ -55,4 +55,4 @@ ___
 
 #### Defined in
 
-[hooks/useEventListener.ts:16](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useEventListener.ts#L16)
+[hooks/useEventListener.ts:16](https://github.com/iheyunfei/solid-ext/blob/594271c/packages/use/src/hooks/useEventListener.ts#L16)

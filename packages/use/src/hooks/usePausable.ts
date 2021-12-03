@@ -2,7 +2,7 @@ import { Pausable } from '@src/types'
 import { useState } from '@src/hooks'
 
 /**
- * @category Isomorphic
+ * @category Isomorphic Hook
  */
 export function usePausable(initActive = true): Pausable {
   const [active, setActive] = useState(initActive)

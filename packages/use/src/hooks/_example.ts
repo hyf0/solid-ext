@@ -1,9 +1,9 @@
 /**
  * valid categories
  * 
- * @category Isomorphic
+ * @category Isomorphic Hook
  * @category React Style
- * @category Browser
+ * @category Browser Hook
  */
 
 /**
@@ -11,6 +11,6 @@
  * 
  * @example
  * 
- * @category Browser
+ * @category Browser Hook
  */
 export function useExample() {}

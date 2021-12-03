@@ -43,7 +43,7 @@ export type MouseSourceType = 'mouse' | 'touch' | null
  * }
  * ```
  *
- * @category Browser
+ * @category Browser Hook
  */
 export function useMouse(options: MouseOptions = {}) {
   const {

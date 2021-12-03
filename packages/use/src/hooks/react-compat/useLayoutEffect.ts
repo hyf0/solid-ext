@@ -7,7 +7,7 @@ import { createRenderEffect, onCleanup } from 'solid-js'
  * - `useLayoutEffect` will ensure `cleanUp` is executed before next `effect` being executed.
  * - `cleanUp` will be executed when the lifecycle `onCleanUp` is executed
  * 
- * @category Isomorphic
+ * @category Isomorphic Hook
  * @category React Style
  */
 export function useLayoutEffect(effect: Effect) {

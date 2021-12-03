@@ -2,7 +2,7 @@ import { createMemo } from 'solid-js'
 
 /**
  * @example
- * ```
+ * ```tsx
  * const [getA, setA] = createSignal(1)
  * const [getB, setB] = useState(1)
  * 
@@ -14,7 +14,7 @@ import { createMemo } from 'solid-js'
  * @description
  * A React style wrapper of `createMemo`.
  * 
- * @category Isomorphic
+ * @category Isomorphic Hook
  * @category React Style
  */
 export function useMemo<T>(

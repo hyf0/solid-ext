@@ -20,7 +20,7 @@ Initial values
 
 #### Defined in
 
-[hooks/useMouse.ts:22](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useMouse.ts#L22)
+[hooks/useMouse.ts:22](https://github.com/iheyunfei/solid-ext/blob/594271c/packages/use/src/hooks/useMouse.ts#L22)
 
 ___
 
@@ -34,7 +34,7 @@ Reset to initial value when `touchend` event fired
 
 #### Defined in
 
-[hooks/useMouse.ts:16](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useMouse.ts#L16)
+[hooks/useMouse.ts:16](https://github.com/iheyunfei/solid-ext/blob/594271c/packages/use/src/hooks/useMouse.ts#L16)
 
 ___
 
@@ -48,4 +48,4 @@ Listen to `touchmove` events
 
 #### Defined in
 
-[hooks/useMouse.ts:9](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useMouse.ts#L9)
+[hooks/useMouse.ts:9](https://github.com/iheyunfei/solid-ext/blob/594271c/packages/use/src/hooks/useMouse.ts#L9)

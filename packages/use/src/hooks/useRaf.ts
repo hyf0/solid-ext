@@ -26,7 +26,7 @@ import { usePausable } from './usePausable'
  *   return fps
  *  }
  * ```
- * @category Isomorphic
+ * @category Isomorphic Hook
  */
 export function useRaf(fn: FrameRequestCallback): Pausable {
   const pausable = usePausable()

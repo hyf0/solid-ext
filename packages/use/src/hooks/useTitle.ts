@@ -9,7 +9,7 @@ export function useTitle(
 export function useTitle(title?: ReactiveGetter<string | undefined>): void
 
 /**
- * @category Isomorphic
+ * @category Isomorphic Hook
  */
 export function useTitle(
   maybeTitle?: MaybeReactiveGetter<string | undefined>,

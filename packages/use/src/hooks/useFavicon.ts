@@ -40,7 +40,7 @@ export function useFavicon(
  * setIcon('dark.png')
  *
  * ```
- * @category Isomorphic
+ * @category Isomorphic Hook
  */
 export function useFavicon(
   newIcon: MaybeReactiveGetter<string | null | undefined> = null,
