@@ -12,7 +12,7 @@ import { createSignal } from 'solid-js'
  * A React style wrapper of `createSignal`. It returns a pair of functions as an array: a getter and a setter.
  * 
  * @category Isomorphic Hook
- * @category React Style
+ * @category React Style Hook
  */
 export function useState<T>(initialValue: T) {
   return createSignal(initialValue)

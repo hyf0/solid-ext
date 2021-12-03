@@ -2,7 +2,7 @@
  * valid categories
  * 
  * @category Isomorphic Hook
- * @category React Style
+ * @category React Style Hook
  * @category Browser Hook
  */
 

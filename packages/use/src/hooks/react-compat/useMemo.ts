@@ -15,7 +15,7 @@ import { createMemo } from 'solid-js'
  * A React style wrapper of `createMemo`.
  * 
  * @category Isomorphic Hook
- * @category React Style
+ * @category React Style Hook
  */
 export function useMemo<T>(
   fn: () => T
