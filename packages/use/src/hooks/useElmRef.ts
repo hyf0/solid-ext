@@ -14,10 +14,6 @@ import { onCleanup } from 'solid-js'
  *    console.log(ref.current) // => HTMLInputElement
  *  })
  *
- *  onCleanup(() => {
- *    console.log(ref.current) // => HTMLInputElement
- *  })
- *
  *  return <input ref={ref} />
  * }
  * ```

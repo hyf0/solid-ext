@@ -15,7 +15,7 @@
 
 #### Defined in
 
-[hooks/useFavicon.ts:6](https://github.com/iheyunfei/solid-ext/blob/bc45a76/packages/use/src/hooks/useFavicon.ts#L6)
+[hooks/useFavicon.ts:6](https://github.com/iheyunfei/solid-ext/blob/d13f07d/packages/use/src/hooks/useFavicon.ts#L6)
 
 ___
 
@@ -25,4 +25,4 @@ ___
 
 #### Defined in
 
-[hooks/useFavicon.ts:7](https://github.com/iheyunfei/solid-ext/blob/bc45a76/packages/use/src/hooks/useFavicon.ts#L7)
+[hooks/useFavicon.ts:7](https://github.com/iheyunfei/solid-ext/blob/d13f07d/packages/use/src/hooks/useFavicon.ts#L7)
