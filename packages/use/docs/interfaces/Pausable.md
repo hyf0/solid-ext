@@ -19,7 +19,7 @@ A Getter indicate whether a pusable instance is active
 
 #### Defined in
 
-[types/index.ts:16](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L16)
+[types/index.ts:16](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L16)
 
 ___
 
@@ -31,7 +31,7 @@ Temporary pause the effect from executing
 
 #### Defined in
 
-[types/index.ts:21](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L21)
+[types/index.ts:21](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L21)
 
 ___
 
@@ -43,7 +43,7 @@ Resume the effects
 
 #### Defined in
 
-[types/index.ts:26](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L26)
+[types/index.ts:26](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L26)
 
 ___
 
@@ -55,4 +55,4 @@ Resume the effects
 
 #### Defined in
 
-[types/index.ts:31](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L31)
+[types/index.ts:31](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L31)

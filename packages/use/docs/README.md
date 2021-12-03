@@ -91,7 +91,7 @@ Reactive prefers-color-scheme media query. Functions
 
 #### Defined in
 
-[types/index.ts:8](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L8)
+[types/index.ts:8](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L8)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[types/index.ts:51](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L51)
+[types/index.ts:51](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L51)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[types/index.ts:53](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L53)
+[types/index.ts:53](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L53)
 
 ___
 
@@ -129,7 +129,7 @@ ___
 
 #### Defined in
 
-[hooks/usePreferredColorScheme.ts:3](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/usePreferredColorScheme.ts#L3)
+[hooks/usePreferredColorScheme.ts:3](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/usePreferredColorScheme.ts#L3)
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 #### Defined in
 
-[hooks/useEventListener.ts:7](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useEventListener.ts#L7)
+[hooks/useEventListener.ts:7](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useEventListener.ts#L7)
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[types/index.ts:55](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L55)
+[types/index.ts:55](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L55)
 
 ___
 
@@ -173,7 +173,7 @@ ___
 
 #### Defined in
 
-[types/ElementRef.ts:9](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/ElementRef.ts#L9)
+[types/ElementRef.ts:9](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/ElementRef.ts#L9)
 
 ___
 
@@ -211,7 +211,7 @@ ElementRef is a function with extra property `current`.
 
 #### Defined in
 
-[types/ElementRef.ts:4](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/ElementRef.ts#L4)
+[types/ElementRef.ts:4](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/ElementRef.ts#L4)
 
 ___
 
@@ -229,7 +229,7 @@ ___
 
 #### Defined in
 
-[types/index.ts:10](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L10)
+[types/index.ts:10](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L10)
 
 ___
 
@@ -239,7 +239,7 @@ ___
 
 #### Defined in
 
-[hooks/useEventListener.ts:8](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useEventListener.ts#L8)
+[hooks/useEventListener.ts:8](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useEventListener.ts#L8)
 
 ___
 
@@ -255,7 +255,7 @@ ___
 
 #### Defined in
 
-[types/index.ts:3](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L3)
+[types/index.ts:3](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L3)
 
 ___
 
@@ -265,7 +265,7 @@ ___
 
 #### Defined in
 
-[hooks/useMouse.ts:25](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useMouse.ts#L25)
+[hooks/useMouse.ts:25](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useMouse.ts#L25)
 
 ___
 
@@ -282,7 +282,7 @@ ___
 
 #### Defined in
 
-[types/index.ts:57](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L57)
+[types/index.ts:57](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L57)
 
 ___
 
@@ -298,7 +298,7 @@ ___
 
 #### Defined in
 
-[types/index.ts:5](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L5)
+[types/index.ts:5](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L5)
 
 ___
 
@@ -314,7 +314,7 @@ ___
 
 #### Defined in
 
-[types/index.ts:6](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/index.ts#L6)
+[types/index.ts:6](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/index.ts#L6)
 
 ___
 
@@ -324,7 +324,7 @@ ___
 
 #### Defined in
 
-[hooks/useFullscreen.ts:131](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useFullscreen.ts#L131)
+[hooks/useFullscreen.ts:131](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useFullscreen.ts#L131)
 
 ___
 
@@ -334,7 +334,7 @@ ___
 
 #### Defined in
 
-[hooks/useEventListener.ts:6](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useEventListener.ts#L6)
+[hooks/useEventListener.ts:6](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useEventListener.ts#L6)
 
 ## Browser Functions
 
@@ -364,7 +364,7 @@ Reactive Fullscreen API.
 
 #### Defined in
 
-[hooks/useFullscreen.ts:66](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useFullscreen.ts#L66)
+[hooks/useFullscreen.ts:66](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useFullscreen.ts#L66)
 
 ___
 
@@ -408,7 +408,7 @@ export function UseMouse() {
 
 #### Defined in
 
-[hooks/useMouse.ts:48](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useMouse.ts#L48)
+[hooks/useMouse.ts:48](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useMouse.ts#L48)
 
 ___
 
@@ -454,7 +454,7 @@ export function UseClickOutside() {
 
 #### Defined in
 
-[hooks/useClickOutside.ts:32](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useClickOutside.ts#L32)
+[hooks/useClickOutside.ts:32](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useClickOutside.ts#L32)
 
 ___
 
@@ -492,7 +492,7 @@ A React style wrapper of `createEffect` + `onCleanup`.
 
 #### Defined in
 
-[hooks/react-compat/useEffect.ts:26](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/react-compat/useEffect.ts#L26)
+[hooks/react-compat/useEffect.ts:26](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/react-compat/useEffect.ts#L26)
 
 ___
 
@@ -535,7 +535,7 @@ A syntax sugar to help using refs in solid and work well with other hooks.
 
 #### Defined in
 
-[hooks/useElmRef.ts:30](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useElmRef.ts#L30)
+[hooks/useElmRef.ts:30](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useElmRef.ts#L30)
 
 ___
 
@@ -568,7 +568,7 @@ Overload 1: Omitted Window target
 
 #### Defined in
 
-[hooks/useEventListener.ts:26](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useEventListener.ts#L26)
+[hooks/useEventListener.ts:26](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useEventListener.ts#L26)
 
 ▸ **useEventListener**<`E`\>(`target`, `event`, `listener`, `options?`): [`Fn`](README.md#fn)
 
@@ -598,7 +598,7 @@ Overload 2: Explicitly Window target
 
 #### Defined in
 
-[hooks/useEventListener.ts:40](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useEventListener.ts#L40)
+[hooks/useEventListener.ts:40](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useEventListener.ts#L40)
 
 ▸ **useEventListener**<`E`\>(`target`, `event`, `listener`, `options?`): [`Fn`](README.md#fn)
 
@@ -628,7 +628,7 @@ Overload 3: Explicitly Document target
 
 #### Defined in
 
-[hooks/useEventListener.ts:54](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useEventListener.ts#L54)
+[hooks/useEventListener.ts:54](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useEventListener.ts#L54)
 
 ▸ **useEventListener**<`T`, `E`\>(`target`, `event`, `listener`, `options?`): [`Fn`](README.md#fn)
 
@@ -668,7 +668,7 @@ const Input = () => {
 
 #### Defined in
 
-[hooks/useEventListener.ts:76](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useEventListener.ts#L76)
+[hooks/useEventListener.ts:76](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useEventListener.ts#L76)
 
 ___
 
@@ -682,7 +682,7 @@ ___
 
 #### Defined in
 
-[hooks/useFPS.ts:7](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useFPS.ts#L7)
+[hooks/useFPS.ts:7](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useFPS.ts#L7)
 
 ___
 
@@ -724,7 +724,7 @@ setIcon('dark.png')
 
 #### Defined in
 
-[hooks/useFavicon.ts:10](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useFavicon.ts#L10)
+[hooks/useFavicon.ts:10](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useFavicon.ts#L10)
 
 ▸ **useFavicon**(`newIcon`, `options?`): `void`
 
@@ -762,7 +762,7 @@ setIcon('dark.png')
 
 #### Defined in
 
-[hooks/useFavicon.ts:17](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useFavicon.ts#L17)
+[hooks/useFavicon.ts:17](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useFavicon.ts#L17)
 
 ___
 
@@ -783,7 +783,7 @@ ___
 
 #### Defined in
 
-[hooks/useInterval.ts:9](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useInterval.ts#L9)
+[hooks/useInterval.ts:9](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useInterval.ts#L9)
 
 ___
 
@@ -808,7 +808,7 @@ A React style wrapper of `createRenderEffect` + `onCleanup`.
 
 #### Defined in
 
-[hooks/react-compat/useLayoutEffect.ts:13](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/react-compat/useLayoutEffect.ts#L13)
+[hooks/react-compat/useLayoutEffect.ts:13](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/react-compat/useLayoutEffect.ts#L13)
 
 ___
 
@@ -828,7 +828,7 @@ ___
 
 #### Defined in
 
-[hooks/useMediaQuery.ts:6](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useMediaQuery.ts#L6)
+[hooks/useMediaQuery.ts:6](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useMediaQuery.ts#L6)
 
 ___
 
@@ -867,7 +867,7 @@ A React style wrapper of `createMemo`.
 
 #### Defined in
 
-[hooks/react-compat/useMemo.ts:20](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/react-compat/useMemo.ts#L20)
+[hooks/react-compat/useMemo.ts:20](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/react-compat/useMemo.ts#L20)
 
 ___
 
@@ -884,7 +884,7 @@ Reactive Navigator Languages.
 
 #### Defined in
 
-[hooks/usePreferredLanguages.ts:9](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/usePreferredLanguages.ts#L9)
+[hooks/usePreferredLanguages.ts:9](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/usePreferredLanguages.ts#L9)
 
 ___
 
@@ -929,7 +929,7 @@ export function useFPS(): ReactiveGetter<number> {
 
 #### Defined in
 
-[hooks/useRaf.ts:31](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useRaf.ts#L31)
+[hooks/useRaf.ts:31](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useRaf.ts#L31)
 
 ___
 
@@ -953,7 +953,7 @@ requestIdleCallback
 
 #### Defined in
 
-[hooks/useRic.ts:12](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useRic.ts#L12)
+[hooks/useRic.ts:12](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useRic.ts#L12)
 
 ___
 
@@ -989,7 +989,7 @@ A React style wrapper of `createSignal`. It returns a pair of functions as an ar
 
 #### Defined in
 
-[hooks/react-compat/useState.ts:17](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/react-compat/useState.ts#L17)
+[hooks/react-compat/useState.ts:17](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/react-compat/useState.ts#L17)
 
 ___
 
@@ -1009,7 +1009,7 @@ ___
 
 #### Defined in
 
-[hooks/useTitle.ts:6](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useTitle.ts#L6)
+[hooks/useTitle.ts:6](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useTitle.ts#L6)
 
 ▸ **useTitle**(`title?`): `void`
 
@@ -1025,7 +1025,7 @@ ___
 
 #### Defined in
 
-[hooks/useTitle.ts:9](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/useTitle.ts#L9)
+[hooks/useTitle.ts:9](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/useTitle.ts#L9)
 
 ___
 
@@ -1042,7 +1042,7 @@ Reactive prefers-color-scheme media query. Functions
 
 #### Defined in
 
-[hooks/usePreferredColorScheme.ts:9](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/usePreferredColorScheme.ts#L9)
+[hooks/usePreferredColorScheme.ts:9](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/usePreferredColorScheme.ts#L9)
 
 ___
 
@@ -1070,7 +1070,7 @@ ref is ElementRef<T\>
 
 #### Defined in
 
-[types/ElementRef.ts:11](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/ElementRef.ts#L11)
+[types/ElementRef.ts:11](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/ElementRef.ts#L11)
 
 ___
 
@@ -1096,7 +1096,7 @@ ___
 
 #### Defined in
 
-[types/ElementRef.ts:17](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/types/ElementRef.ts#L17)
+[types/ElementRef.ts:17](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/types/ElementRef.ts#L17)
 
 ___
 
@@ -1136,7 +1136,7 @@ A React style wrapper of `createEffect` + `onCleanup`.
 
 #### Defined in
 
-[hooks/react-compat/useEffect.ts:26](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/react-compat/useEffect.ts#L26)
+[hooks/react-compat/useEffect.ts:26](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/react-compat/useEffect.ts#L26)
 
 ___
 
@@ -1161,7 +1161,7 @@ A React style wrapper of `createRenderEffect` + `onCleanup`.
 
 #### Defined in
 
-[hooks/react-compat/useLayoutEffect.ts:13](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/react-compat/useLayoutEffect.ts#L13)
+[hooks/react-compat/useLayoutEffect.ts:13](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/react-compat/useLayoutEffect.ts#L13)
 
 ___
 
@@ -1200,7 +1200,7 @@ A React style wrapper of `createMemo`.
 
 #### Defined in
 
-[hooks/react-compat/useMemo.ts:20](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/react-compat/useMemo.ts#L20)
+[hooks/react-compat/useMemo.ts:20](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/react-compat/useMemo.ts#L20)
 
 ___
 
@@ -1236,4 +1236,4 @@ A React style wrapper of `createSignal`. It returns a pair of functions as an ar
 
 #### Defined in
 
-[hooks/react-compat/useState.ts:17](https://github.com/iheyunfei/solid-ext/blob/6b29be1/packages/use/src/hooks/react-compat/useState.ts#L17)
+[hooks/react-compat/useState.ts:17](https://github.com/iheyunfei/solid-ext/blob/7729c6f/packages/use/src/hooks/react-compat/useState.ts#L17)
