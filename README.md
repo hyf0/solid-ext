@@ -1,2 +1,8 @@
-# solidus
-Solidus is an utils collection of solid-js.
+# solid-ext
+
+
+
+## [@solid-ext/use](./packages/use) - Utilities for Solid
+
+- [Document](./packages/use/docs)
+
