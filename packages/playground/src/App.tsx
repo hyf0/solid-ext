@@ -1,23 +1,23 @@
 import type { Component } from 'solid-js'
-import { UseClickOutside } from './examples/UseClickOutside'
-import { UseFPS } from './examples/UseFPS'
-import { UseFullScreen } from './examples/UseFullScreen'
-import { UseInterval } from './examples/UseInterval'
-import { UseMediaQuery } from './examples/UseMediaQuery'
-import { UseMouse } from './examples/UseMouse'
-import { UsePreferredColorScheme } from './examples/UsePreferredColorScheme'
-import { UsePreferredLanguages } from './examples/UsePreferredLanguages'
+import { CreateFPS } from './examples/CreateFPS'
+import { CreateFullScreen } from './examples/CreateFullScreen'
+import { CreateInterval } from './examples/CreateInterval'
+import { CreateMediaQuery } from './examples/CreateMediaQuery'
+import { CreateMouse } from './examples/CreateMouse'
+import { CreatePreferredColorScheme } from './examples/CreatePreferredColorScheme'
+import { CreatePreferredLanguages } from './examples/CreatePreferredLanguages'
+import { OnClickOutside } from './examples/OnClickOutside'
 
 const App: Component = () => {
   const exmples = [
-    UseMouse,
-    UseFPS,
-    UseFullScreen,
-    UseInterval,
-    UseMediaQuery,
-    UsePreferredLanguages,
-    UsePreferredColorScheme,
-    UseClickOutside,
+    CreateMouse,
+    CreateFPS,
+    CreateFullScreen,
+    CreateInterval,
+    CreateMediaQuery,
+    CreatePreferredLanguages,
+    CreatePreferredColorScheme,
+    OnClickOutside,
   ]
 
   return (

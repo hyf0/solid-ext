@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "solid-js": "^1.1.3",
-    "@solid-ext/use": "workspace:*"
+    "@solid-ext/core": "workspace:*"
   }
 }

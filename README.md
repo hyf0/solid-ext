@@ -2,7 +2,7 @@
 
 
 
-## [@solid-ext/use](./packages/use) - Utilities for Solid
+## [@solid-ext/core](./packages/core) - Utilities for Solid
 
-- [Document](./packages/use/docs)
+- [Document](./packages/core/docs)
 
